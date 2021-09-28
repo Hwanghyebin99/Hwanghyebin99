@@ -4,6 +4,11 @@
     <img 
         src="http://img.shields.io/badge/-Instagram-222222?style=flat&logo=Instagram&link=https://www.instagram.com/hy._.been/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<a href="https://habitual-scooter-fd9.notion.site/05a620bc2010434bbb6556e2abc165d0">
+    <img 
+        src="http://img.shields.io/badge/-Notion-222222?style=flat&logo=Notion&link=https://habitual-scooter-fd9.notion.site/05a620bc2010434bbb6556e2abc165d0"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>  
 
 ---
