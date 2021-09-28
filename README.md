@@ -1,5 +1,5 @@
 ### 🧙‍♀️ HyeBeen Hwang
-- 💬 Hyebeen.Hwang.99@gmail.com
+- 💬 hyebeen.hwang.99@gmail.com
 <a href="https://www.instagram.com/hy._.been/">
     <img 
         src="http://img.shields.io/badge/-Instagram-222222?style=flat&logo=Instagram&link=https://www.instagram.com/hy._.been/"
