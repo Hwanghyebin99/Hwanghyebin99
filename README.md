@@ -27,9 +27,7 @@
 <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
 
 ![Hwanghyebin99's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hwanghyebin99&show_icons=true&theme=dracula)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hwanghyebin99&layout=compact&theme=dracula&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=이름)](https://solved.ac/이름)
---!>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hebin99)](https://solved.ac/hebin99)
+
